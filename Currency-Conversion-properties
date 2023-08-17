@@ -1,0 +1,3 @@
+spring.application.name=Currency-Conversion
+currency.conversion.minimum=8
+currency.conversion.maximum=888
